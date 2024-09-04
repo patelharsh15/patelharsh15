@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Artificial Intelligence ,Deep Learning and Computer Vision at University of Ottawa.**
 
-- 💬 Ask me about **Python, Artificial Intelligence, Machine Learning, Flutter and Corporate Experiance.**
+- 💬 Ask me about **Python, Artificial Intelligence, Machine Learning, Flutter and Corporate Experience.**
 
 - 📫 How to reach me **harshbpatel365.hp@gmail.com**
 
