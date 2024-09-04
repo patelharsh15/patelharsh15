@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsh Patel</h1>
-<h3 align="center">A passionate Machine Learning and Data Science student from India</h3>
+<h3 align="center">A passionate Artificial Intelligence, Machine Learning and Data Science student.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patelharsh15&label=Profile%20views&color=0e75b6&style=flat" alt="patelharsh15" /> </p>
 
@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **Data Science, Deep Learning and Machine Learning.**
 
-- 🌱 I’m currently learning **Artificial Intelligence ,Deep Learning and Computer Vision.**
+- 🌱 I’m currently learning **Artificial Intelligence ,Deep Learning and Computer Vision at University of Ottawa.**
 
-- 💬 Ask me about **Flutter, Python and Deep Learning(tensorflow).**
+- 💬 Ask me about **Python, Artificial Intelligence, Machine Learning, Flutter and Corporate Experiance.**
 
 - 📫 How to reach me **harshbpatel365.hp@gmail.com**
 
